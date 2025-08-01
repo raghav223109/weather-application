@@ -15,4 +15,4 @@ Python 3
 (2)TimezoneFinder – To get the timezone based on coordinates
 (3)Pytz – To display local time
 (4)OpenWeatherMap API – Real-time weather data
-(5)Requests – For API integration
+(5)Requests – For API integration 
